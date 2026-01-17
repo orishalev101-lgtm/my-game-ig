@@ -33,7 +33,7 @@
   const button = { x: 0, y: 0, w: 220, h: 60 }
 
   function resetGame() {
-    player = { x: canvas.width / 2, y: canvas.height / 2, r: 18, speed: 400, hp: 5 }
+    player = { x: canvas.width / 2, y: canvas.height / 2, r: 18, speed: 670, hp: 1 }
     bullets = []
     enemies = []
     score = 0
